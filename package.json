@@ -1,0 +1,25 @@
+{
+  "name": "enhanced.css",
+  "version": "1.1.0",
+  "description": "Enchanced version of normalize.css by Necolas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umair-hassan2/Normalized.css-Package-.git"
+  },
+  "keywords": [
+    "normalized.css"
+  ],
+  "author": "umair hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umair-hassan2/Normalized.css-Package-/issues"
+  },
+  "homepage": "https://github.com/umair-hassan2/Normalized.css-Package-#readme",
+  "dependencies": {
+    "enchanced.css": "^1.0.0"
+  }
+}
